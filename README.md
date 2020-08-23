@@ -14,4 +14,11 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 delete res.render('error');
 
+5. npm install --save-dev nodemon
+6. npm run debug
+7 npm i --save sequelize@6.3.4 mysql2@2.1.0
+8. npm i sequelize-cli@6.2.0
+9. run sequelize init
+10. delete the config folder
+
 
