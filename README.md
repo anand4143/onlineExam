@@ -20,5 +20,7 @@ delete res.render('error');
 8. npm i sequelize-cli@6.2.0
 9. run sequelize init
 10. delete the config folder
-
+11. Create .env file in root directory
+12. npm i --save dotenv
+ 
 
